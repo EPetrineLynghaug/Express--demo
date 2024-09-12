@@ -25,8 +25,8 @@ In this project, we will set up a basic web server using vanilla Node.js, build 
 
 ## Disadvantages of Express
 
-	1.	No Built-in Features: Unlike some other frameworks, Express doesn’t come with a lot of features out of the box, which means you need to build or integrate them manually.
-	2.	No Built-in Database Support: Express doesn’t include a database system, so you need to manage databases separately, for instance, by using Node.js with a database like MongoDB,        MySQL, or PostgreSQL.
+ 1. No Built-in Features: Unlike some other frameworks, Express doesn’t come with a lot of features out of the box, which means you need to build or integrate them manually.
+ 2. No Built-in Database Support: Express doesn’t include a database system, so you need to manage databases separately, for instance, by using Node.js with a database like MongoDB,        MySQL, or PostgreSQL.
 
   ## In this project, we aim to:
 
