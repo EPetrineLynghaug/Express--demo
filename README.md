@@ -7,7 +7,9 @@ In this project, we will set up a basic web server using vanilla Node.js, build 
 
 
 ## Key Features of Express
-Web workers are particularly helpful when dealing with tasks that are too heavy to run on the main thread:
+
+Web workers are particularly helpful when dealing with tasks that are too heavy to run on the main thread
+
 <details>
   <summary><strong>Click to read more</strong></summary>
 - **Simple Setup:** Express is easy to install and configure, making it a great choice for lightweight applications.
@@ -16,7 +18,6 @@ Web workers are particularly helpful when dealing with tasks that are too heavy 
 - **Large Ecosystem:** With a huge community and a wide range of plugins available, Express can be extended easily.
 - **Non-blocking I/O:** Like Node.js itself, Express is non-blocking, meaning it handles requests asynchronously for better performance.
 - **Built on Top of Node.js:** It leverages the power of Node.js without interfering with its core, providing a flexible environment for developers.
-
 </details>
 
 ## Advantages of Express
