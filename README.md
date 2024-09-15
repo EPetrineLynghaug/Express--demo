@@ -7,13 +7,17 @@ In this project, we will set up a basic web server using vanilla Node.js, build 
 
 
 ## Key Features of Express
- 	•	Simple Setup: Express is easy to install and configure, making it a great choice for lightweight applications.
-	•	Middleware Support: It offers support for middleware, allowing you to handle requests and responses more efficiently by layering different functionalities.
-	•	Routing: Express simplifies the process of handling different HTTP routes (GET, POST, etc.) for building multi-page apps.
-	•	Large Ecosystem: With a huge community and a wide range of plugins available, Express can be extended easily.
-	•	Non-blocking I/O: Like Node.js itself, Express is non-blocking, meaning it handles requests asynchronously for better performance.
-	•	Built on Top of Node.js: It leverages the power of Node.js without interfering with its core, providing a flexible environment for developers.
+Web workers are particularly helpful when dealing with tasks that are too heavy to run on the main thread:
+<details>
+  <summary><strong>Click to read more</strong></summary>
+- **Simple Setup:** Express is easy to install and configure, making it a great choice for lightweight applications.
+- **Middleware Support:** It offers support for middleware, allowing you to handle requests and responses more efficiently by layering different functionalities.
+- **Routing:** Express simplifies the process of handling different HTTP routes (GET, POST, etc.) for building multi-page apps.
+- **Large Ecosystem:** With a huge community and a wide range of plugins available, Express can be extended easily.
+- **Non-blocking I/O:** Like Node.js itself, Express is non-blocking, meaning it handles requests asynchronously for better performance.
+- **Built on Top of Node.js:** It leverages the power of Node.js without interfering with its core, providing a flexible environment for developers.
 
+</details>
 
 ## Advantages of Express
   1.	Ease of Setup: It’s quick and simple to get started with, making it ideal for small and scalable projects alike.
