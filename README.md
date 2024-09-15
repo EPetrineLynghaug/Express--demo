@@ -20,13 +20,15 @@ Web workers are particularly helpful when dealing with tasks that are too heavy 
 - **Built on Top of Node.js:** It leverages the power of Node.js without interfering with its core, providing a flexible environment for developers.
 </details>
 
-## Advantages of Express
-  1.	Ease of Setup: It’s quick and simple to get started with, making it ideal for small and scalable projects alike.
-	2.	Middleware Support: The middleware system allows for better control over how requests are handled and processed.
-	3.	Routing: Express simplifies the handling of multiple routes in an organized manner.
-	4.	Asynchronous Performance: Non-blocking behavior ensures that the server can handle multiple requests efficiently.
-	5.	Scalability: It has a large and active ecosystem with many third-party modules that can easily be integrated.
 
+</details>
+## Advantages of Express
+  	1. **Ease of Setup:** It’s quick and simple to get started with, making it ideal for small and scalable projects alike.
+	2. **Middleware Support:** The middleware system allows for better control over how requests are handled and processed.
+	3. **Routing:** Express simplifies the handling of multiple routes in an organized manner.
+	4. **Asynchronous Performance:** Non-blocking behavior ensures that the server can handle multiple requests efficiently.
+	5. **Scalability:** It has a large and active ecosystem with many third-party modules that can easily be integrated.
+</details>
 
 ## Disadvantages of Express
 
