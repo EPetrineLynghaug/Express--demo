@@ -22,8 +22,8 @@ Web workers are particularly helpful when dealing with tasks that are too heavy 
 
 
 </details>
-<detalis>
 ## Advantages of Express
+<detalis>
 	<summery><strong>Read more</strong></summery>
   	1. **Ease of Setup:** It’s quick and simple to get started with, making it ideal for small and scalable projects alike.
 	2. **Middleware Support:** The middleware system allows for better control over how requests are handled and processed.
